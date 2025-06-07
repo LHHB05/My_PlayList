@@ -49,6 +49,21 @@ header {
   border-radius: 12px;
 }
 
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px auto;
+}
+
+.main-image {
+  max-width: 80%;
+  height: auto;
+  border-radius: 20px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+
 footer {
   background: #f5f5f5;
   text-align: center;
